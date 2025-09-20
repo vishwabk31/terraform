@@ -10,4 +10,7 @@ terraform {
 provider "azurerm" {
   # Configuration options
   # not done
+  # I have Added New test"
 }
+
+
