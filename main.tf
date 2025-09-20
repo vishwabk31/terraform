@@ -10,4 +10,5 @@ terraform {
 provider "azurerm" {
   # Configuration options
   # not done
+#dinesh
 }
